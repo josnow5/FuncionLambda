@@ -16,3 +16,7 @@ doblar(2)
 doblar1 = lambda num: num*2
 
 doblar1(2)
+
+impar = lambda num: num%2 != 0
+
+impar(5)
